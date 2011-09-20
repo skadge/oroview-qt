@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/yes.png</file>
+        <file>res/no.png</file>
+        <file>res/literals.png</file>
+        <file>res/instances.png</file>
+        <file>res/file.png</file>
+        <file>res/comment.png</file>
+        <file>res/classes.png</file>
+        <file>res/beam.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>res/fonts/FreeSans.ttf</file>
+    </qresource>
+</RCC>
